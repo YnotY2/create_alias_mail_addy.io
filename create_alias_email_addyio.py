@@ -10,7 +10,7 @@ class colors:
     CYAN = '\033[96m'
     BLACK = '\033[30m'
 
-api_token = "addy_io_ZXa9sQFNrF27kXCl6hZpY3Li16xVAv0c3bNC83Hea5bf8753"
+api_token = "YOUR_API_TOKEN_HERE"
 url = 'https://app.addy.io/api/v1/aliases'
 payload = {
     "domain": "ynoty2.anonaddy.me",
