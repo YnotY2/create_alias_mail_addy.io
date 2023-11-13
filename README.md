@@ -9,6 +9,11 @@ Before using this script, make sure you have the following installed:
 - Python 3.x
 - Required Python libraries: `requests`, `json`
 
+Simplt run the following cli command $ in terminal window: 
+```bash
+pip install -r requirements.txt
+```
+
 ## Usage
 
 1. **Set API Token**
@@ -17,6 +22,10 @@ Before using this script, make sure you have the following installed:
 
    ```python
    api_token = "YOUR_ADDY.IO_API_TOKEN"
+   ```
+   ```bash
+   python3 create_email_alias_addyio.py
+   ```
 
 ## Ouput:
 
